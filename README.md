@@ -1,11 +1,11 @@
 # LTSpiceConfig
 Raccourcis clavier plus intuitifs pour LTSpice
 
-# LTspiceXVII.ini
+## LTspiceXVII.ini
 Le fichier se trouve dans %Appdata%/LTspiceXVII.ini
 Ce fichier contient aussi les couleurs et d'autres paramètres de LTSpice.
 
-# Raccourcis
+## Raccourcis
 - Annuler : Ctrl+Z et Ctrl+Y
 - Déplacer : Ctrl+M et Ctrl+Shift+M
 - Dupliquer : Ctrl+D
